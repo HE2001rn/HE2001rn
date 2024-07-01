@@ -5,11 +5,11 @@
 
 ---
 
-- 🔭 I’m currently working on **Weather App**
+- 🔭 I’m currently working on **Student Management System**
 
 - 🌱 I’m currently learning **Node js, express js, kotlin**
 
-- 💬 Ask me about **HTML,CSS,PHP,JAVA,BOOTSTRAP,JS**
+- 💬 Ask me about **HTML,CSS,PHP,JAVA,BOOTSTRAP,JS, KOTLIN**
 
 - 📫 How to reach me **heshanrahmika1124@gmail.com**
 
